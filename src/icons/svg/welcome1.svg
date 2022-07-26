@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 25</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="大数据平台-2" transform="translate(-274.000000, -1000.000000)">
+            <g id="Group-30" transform="translate(274.000000, 998.000000)">
+                <g id="Group-25" transform="translate(0.000000, 2.000000)">
+                    <circle id="Oval" fill="#EBF3FF" fill-rule="nonzero" cx="23" cy="23" r="23"></circle>
+                    <g id="Group" transform="translate(13.000000, 13.000000)" stroke="#1F5DEA" stroke-linejoin="round" stroke-width="2">
+                        <rect id="Rectangle" transform="translate(14.849204, 5.656854) rotate(45.000000) translate(-14.849204, -5.656854) " x="11.3492042" y="1.15685425" width="7" height="9" rx="1"></rect>
+                        <rect id="Rectangle" transform="translate(5.656854, 14.849254) rotate(45.000000) translate(-5.656854, -14.849254) " x="2.15685425" y="10.3492542" width="7" height="9" rx="1"></rect>
+                        <line x1="13.788761" y1="6.71755" x2="6.71766103" y2="13.7886" id="Path" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
